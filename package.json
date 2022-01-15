@@ -1,0 +1,22 @@
+{
+  "name": "ai-ocr",
+  "version": "1.0.0",
+  "description": "AI识别助手",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GuoSirius/ai-ocr.git"
+  },
+  "keywords": [
+    "AI识别助手"
+  ],
+  "author": "郭之存",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuoSirius/ai-ocr/issues"
+  },
+  "homepage": "https://github.com/GuoSirius/ai-ocr#readme"
+}
