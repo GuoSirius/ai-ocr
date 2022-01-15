@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/GuoSirius/ai-ocr/issues"
   },
-  "homepage": "https://github.com/GuoSirius/ai-ocr#readme"
+  "homepage": "https://github.com/GuoSirius/ai-ocr#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dayjs": "^1.10.7",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "rxjs": "^7.5.2"
+  }
 }
